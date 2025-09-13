@@ -12,7 +12,7 @@
     "search": "node ./scripts/generateSearchData.js"
   },
   "dependencies": {
-    "next": "12.1.0",
+    "next": "14.2.26",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "tslib": "^2.3.1"
@@ -35,7 +35,7 @@
     "postcss": "^8.4.16",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",
-    "prismjs": "^1.27.0",
+    "prismjs": "^1.30.0",
     "react-intersection-observer": "^8.33.1",
     "remark": "^14.0.2",
     "remark-html": "^15.0.1",
